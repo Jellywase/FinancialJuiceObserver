@@ -1,0 +1,14 @@
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\bin\Debug\net8.0\TestConsole.exe
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\bin\Debug\net8.0\TestConsole.deps.json
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\bin\Debug\net8.0\TestConsole.runtimeconfig.json
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\bin\Debug\net8.0\TestConsole.dll
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\bin\Debug\net8.0\TestConsole.pdb
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\TestConsole.AssemblyInfoInputs.cache
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\TestConsole.AssemblyInfo.cs
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\TestConsole.csproj.CoreCompileInputs.cache
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\TestConsole.dll
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\refint\TestConsole.dll
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\TestConsole.pdb
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\TestConsole.genruntimeconfig.cache
+E:\BackUp\Projects\FinancialJuiceObserver\TestConsole\obj\Debug\net8.0\ref\TestConsole.dll
