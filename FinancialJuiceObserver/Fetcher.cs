@@ -8,7 +8,7 @@ namespace FinancialJuiceObserver
 {
     internal class Fetcher
     {
-        HttpClient httpClient;
+        HttpClient httpClient = new HttpClient();
 
         public async Task<JsonNode> FetchFeed()
         {
