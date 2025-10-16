@@ -12,13 +12,9 @@ namespace FinancialJuiceObserver
 
         public async Task<JsonNode> FetchFeed()
         {
-            string xmlString = await httpClient.GetStringAsync("https://www.financialjuice.com/feed.ashx?xy=rss");
-            if (string.IsNullOrEmpty(xmlString))
-            {
-                throw new Exception("Feed returns empty string");
-            }
+            using var xmlStream = await httpClient.GetStreamAsync("https://www.financialjuice.com/feed.ashx?xy=rss");
             XmlDocument xDoc = new XmlDocument();
-            xDoc.Load(xmlString);
+            xDoc.Load(xmlStream);
             JsonNode json = JsonNode.Parse(JsonConvert.SerializeXmlNode(xDoc));
             return json;
         }

@@ -1,0 +1,13 @@
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.AssemblyInfoInputs.cache
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.AssemblyInfo.cs
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.csproj.CoreCompileInputs.cache
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.sourcelink.json
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\bin\Debug\net8.0\FinancialJuiceObserver.deps.json
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\bin\Debug\net8.0\FinancialJuiceObserver.dll
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\bin\Debug\net8.0\FinancialJuiceObserver.pdb
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.csproj.AssemblyReference.cache
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.dll
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\refint\FinancialJuiceObserver.dll
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\FinancialJuiceObserver.pdb
+D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Debug\net8.0\ref\FinancialJuiceObserver.dll

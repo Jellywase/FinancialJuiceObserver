@@ -32,11 +32,11 @@ namespace FinancialJuiceObserver
             for (int i = 0; i < feeds.Count; i++)
             {
                 var feed = feeds[i];
-                DateTime feedDate = DateTime.Parse(feed["pubDate"].ToString());
+                DateTime feedDate = DateTime.Parse(feed["pubDate"]?.ToString());
                 if (feedDate > state.lastFeedDate)
                 {
-                    string title = feed["title"].ToString();
-                    string description = feed["description"].ToString();
+                    string title = feed["title"]?.ToString();
+                    string description = feed["description"]?.ToString();
                     newFeedInfos.Add(new NewFeedInfo(feedDate, title, description));
                 }
                 if (newFeedInfos.Count >= newFeedDepth)

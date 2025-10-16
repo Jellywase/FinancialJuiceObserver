@@ -14,6 +14,19 @@
             "related": ".xml"
           }
         }
+      },
+      "FinancialJuiceObserver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "compile": {
+          "bin/placeholder/FinancialJuiceObserver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinancialJuiceObserver.dll": {}
+        }
       }
     }
   },
@@ -47,10 +60,16 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "FinancialJuiceObserver/1.0.0": {
+      "type": "project",
+      "path": "../FinancialJuiceObserver/FinancialJuiceObserver.csproj",
+      "msbuildProject": "../FinancialJuiceObserver/FinancialJuiceObserver.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "FinancialJuiceObserver >= 1.0.0",
       "Newtonsoft.Json >= 13.0.4"
     ]
   },
@@ -85,7 +104,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj": {
+              "projectPath": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using FinancialJuiceObserver;
+using Newtonsoft.Json;
 using System.Text.Json.Nodes;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
@@ -9,18 +10,21 @@ public class Program
 {
     public static async Task Main(string[] args)
     {
-        HttpClient httpClient = new HttpClient();
-        httpClient.DefaultRequestHeaders.Add("User-Agent", "E");
+        FeedWatcher feedWatcher = new FeedWatcher();
+        await feedWatcher.Update();
 
-        while (true)
-        {
-            Stream response = await httpClient.GetStreamAsync("https://www.financialjuice.com/feed.ashx?xy=rss");
-            XmlDocument xDoc = new();
-            xDoc.Load(response);
-            var json = JsonNode.Parse(JsonConvert.SerializeXmlNode(xDoc));
-            await Task.Delay(60000);
-            Console.WriteLine("Pass");
-        }
+        //HttpClient httpClient = new HttpClient();
+        //httpClient.DefaultRequestHeaders.Add("User-Agent", "E");
+
+        //while (true)
+        //{
+        //    Stream response = await httpClient.GetStreamAsync("https://www.financialjuice.com/feed.ashx?xy=rss");
+        //    XmlDocument xDoc = new();
+        //    xDoc.Load(response);
+        //    var json = JsonNode.Parse(JsonConvert.SerializeXmlNode(xDoc));
+        //    await Task.Delay(60000);
+        //    Console.WriteLine("Pass");
+        //}
 
         return;
 

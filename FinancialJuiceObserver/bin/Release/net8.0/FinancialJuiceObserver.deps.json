@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "FinancialJuiceObserver/1.0.0": {
         "dependencies": {
-          "TestConsole": "1.0.0"
+          "Newtonsoft.Json": "13.0.4"
         },
         "runtime": {
           "FinancialJuiceObserver.dll": {}
@@ -20,14 +20,6 @@
             "assemblyVersion": "13.0.0.0",
             "fileVersion": "13.0.4.30916"
           }
-        }
-      },
-      "TestConsole/1.0.0": {
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.4"
-        },
-        "runtime": {
-          "TestConsole.dll": {}
         }
       }
     }
@@ -44,11 +36,6 @@
       "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
       "path": "newtonsoft.json/13.0.4",
       "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
-    },
-    "TestConsole/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }
