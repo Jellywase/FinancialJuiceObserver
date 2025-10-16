@@ -15,7 +15,7 @@ namespace FinancialJuiceObserver
     {
         readonly object lockObj = new();
         readonly string directory;
-        readonly string fileName = "FeedState";
+        readonly string fileName = "FinancialJuiceFeedState";
         string path => Path.Combine(directory, fileName + ".json");
         public DateTime lastFeedDate => localData.lastFeedDate;
         StateData localData;
