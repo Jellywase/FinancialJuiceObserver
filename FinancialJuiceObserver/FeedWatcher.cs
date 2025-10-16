@@ -16,6 +16,7 @@ namespace FinancialJuiceObserver
         {
             fetcher = new();
             string stateDirectory = Path.Combine(AppContext.BaseDirectory, "FeedState");
+            Directory.CreateDirectory(stateDirectory);
             state = new(stateDirectory);
         }
 
