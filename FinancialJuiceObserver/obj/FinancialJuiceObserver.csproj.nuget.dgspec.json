@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BackUp\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj": {}
+    "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj": {}
   },
   "projects": {
-    "E:\\BackUp\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj": {
+    "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj",
+        "projectUniqueName": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj",
         "projectName": "FinancialJuiceObserver",
-        "projectPath": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj",
+        "projectPath": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\FinancialJuiceObserver.csproj",
         "packagesPath": "C:\\Users\\jelly\\.nuget\\packages\\",
-        "outputPath": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\obj\\",
+        "outputPath": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\FinancialJuiceObserver\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\ProgramFiles\\VisualStudio\\SDK\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\jelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\BackUp\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj": {
-                "projectPath": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj"
+              "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj": {
+                "projectPath": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj"
               }
             }
           }
@@ -43,8 +47,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,21 +68,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\BackUp\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj": {
+    "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj",
+        "projectUniqueName": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj",
         "projectName": "TestConsole",
-        "projectPath": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj",
+        "projectPath": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj",
         "packagesPath": "C:\\Users\\jelly\\.nuget\\packages\\",
-        "outputPath": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\TestConsole\\obj\\",
+        "outputPath": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\TestConsole\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\ProgramFiles\\VisualStudio\\SDK\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\jelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,12 +111,17 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -126,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

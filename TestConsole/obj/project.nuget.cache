@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zUzVHcuhMUo=",
+  "dgSpecHash": "8yUCJShxkmryJ0JDqofQcdtCNa0pqDcRqZjUc+UBRHT964vGOeuGN12VPc3hVhD1CzwgjJ+JraQKaubaMufVGg==",
   "success": true,
-  "projectFilePath": "E:\\BackUp\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Jellywase\\Projects\\FinancialJuiceObserver\\TestConsole\\TestConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jelly\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
