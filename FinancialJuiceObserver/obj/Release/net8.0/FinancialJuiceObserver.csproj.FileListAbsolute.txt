@@ -11,3 +11,16 @@ D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\
 D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\refint\FinancialJuiceObserver.dll
 D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.pdb
 D:\Jellywase\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\ref\FinancialJuiceObserver.dll
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\bin\Release\net8.0\FinancialJuiceObserver.deps.json
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\bin\Release\net8.0\FinancialJuiceObserver.dll
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\bin\Release\net8.0\FinancialJuiceObserver.pdb
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.csproj.AssemblyReference.cache
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.AssemblyInfoInputs.cache
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.AssemblyInfo.cs
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.csproj.CoreCompileInputs.cache
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.sourcelink.json
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.dll
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\refint\FinancialJuiceObserver.dll
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\FinancialJuiceObserver.pdb
+E:\BackUp\Projects\FinancialJuiceObserver\FinancialJuiceObserver\obj\Release\net8.0\ref\FinancialJuiceObserver.dll

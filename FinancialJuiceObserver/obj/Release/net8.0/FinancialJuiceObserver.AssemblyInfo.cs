@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinancialJuiceObserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d02c8c929b4f2502062a492bdf2c2a0687dd95db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f00f564d2338b72dd30943bdf07d0762ea4c7838")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinancialJuiceObserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinancialJuiceObserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

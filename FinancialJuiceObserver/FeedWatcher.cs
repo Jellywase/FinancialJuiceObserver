@@ -49,7 +49,8 @@ namespace FinancialJuiceObserver
                 state.UpdateLastFeedData(newFeedInfos[0].pubDate);
             }
 
-            // 새로운 피드정보 반환
+            // 새로운 피드정보를 날짜 오름차순으로 변환 후 반환 (최신이 마지막에 오도록)
+            newFeedInfos.Reverse();
             return newFeedInfos;
         }
     }
